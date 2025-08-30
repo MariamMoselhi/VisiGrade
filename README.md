@@ -37,6 +37,7 @@ image_brightness
 image_noise
 
 ## Repository Structure
+```
 metrics/
  ├── clarity.py
  ├── contrast.py
@@ -45,3 +46,4 @@ metrics/
 visigrade.py
 requirements.txt
 README.md
+```
